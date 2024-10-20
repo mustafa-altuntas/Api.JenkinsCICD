@@ -1,0 +1,6 @@
+@Api.JenkinsCICD_HostAddress = http://localhost:5106
+
+GET {{Api.JenkinsCICD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
